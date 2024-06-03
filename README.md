@@ -43,8 +43,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 ## 📫 How to Reach Me
 
 - 📧 Email: [bigglesdev@example.com](mailto:bigglesdev@example.com)
-- 🐦 Twitter: [@BigglesDev](https://twitter.com/BigglesDev)
-- 💼 LinkedIn: [BigglesDevelopment](https://www.linkedin.com/in/BigglesDevelopment/)
+- <a href="https://emoji.gg/emoji/9738-discord-ico"><img src="https://cdn3.emoji.gg/emojis/9738-discord-ico.png" width="64px" height="64px" alt="discord_ico"></a> Email: [bigglesdev@example.com](mailto:bigglesdev@example.com)
 
 ## 📈 GitHub Stats
 

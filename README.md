@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [bigglesdev@example.com](mailto:bigglesdev@example.com)
+- 📧 Email: [bigglesdevelopmentteam@gmail.com](mailto:bigglesdevelopmentteam@gmail.com)
 - ⚒️ Discord: [Biggles Developmnet v2](https://discord.gg/AMebd5fPWj)
 
 ## 📈 GitHub Stats
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 
 - 🥇 Completed 100+ projects across various domains.
 - 🌟 Maintained a 5-star rating on freelance platforms.
-- 🏆 Recognized as a top developer in the FiveM community.
+- 🏆 Recognized as a trusted developer in the FiveM community.
 
 ## 🤝 Contributing
 

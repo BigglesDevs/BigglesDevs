@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 ## 🚀 About Me
 
 - 🔧 **Bot Development**: Creating interactive and efficient bots for various platforms.
+- 🐍 **Python Script Development**: The skys the limit.
 - 🖥️ **Script Development for FiveM**: Developing custom scripts to enhance the gaming experience on FiveM servers.
 - 🌐 **Web Development**: Crafting responsive and dynamic websites using the latest technologies.
 - 🏗️ **MLO Development**: Designing and developing custom MLOs (Map Load Objects) for GTA V.
@@ -43,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 ## 📫 How to Reach Me
 
 - 📧 Email: [bigglesdevelopmentteam@gmail.com](mailto:bigglesdevelopmentteam@gmail.com)
-- ⚒️ Discord: [Biggles Developmnet v2](https://discord.gg/AMebd5fPWj)
+- ⚒️ Discord: [Biggles Development v2](https://discord.gg/AMebd5fPWj)
 
 ## 📈 GitHub Stats
 

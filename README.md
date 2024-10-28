@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 ## 🚀 About Me
 
 - 🔧 **Bot Development**: Creating interactive and efficient bots for various platforms.
-- 🐍 **Python Script Development**: The skys the limit.
+- 🐍 **Python Scripting**: Codeing scripts for the unthinkable.
 - 🖥️ **Script Development for FiveM**: Developing custom scripts to enhance the gaming experience on FiveM servers.
 - 🌐 **Web Development**: Crafting responsive and dynamic websites using the latest technologies.
 - 🏗️ **MLO Development**: Designing and developing custom MLOs (Map Load Objects) for GTA V.
@@ -41,6 +41,9 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
 
 ### 🏙️ MLO Development
 - Designing custom MLOs for improving the gaming environment in GTA V.
+
+### 🐍 Python Scripting
+- Codeing scripts for the unthinkable.
 
 ## 📫 How to Reach Me
 

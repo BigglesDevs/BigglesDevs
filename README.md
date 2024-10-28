@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in bot dev
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python" alt="Python"></a>
+  <img src="https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python" alt="Python"></a>
 </p>
 
 ## 🌟 Projects
